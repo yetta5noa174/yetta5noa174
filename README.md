@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yetta5noa174
+- 👀 I’m interested in Full-stack developer in training, specialising in Django and Python. 
+- 📫 I’m looking to collaborate on Committed to crafting user-centric web applications.
